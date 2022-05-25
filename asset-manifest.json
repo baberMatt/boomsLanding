@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/boomsLanding/static/css/main.7cb9c386.css",
+    "main.js": "/boomsLanding/static/js/main.2b7b0172.js",
+    "static/media/newPizzaBG.mp4": "/boomsLanding/static/media/newPizzaBG.5c0672d8a7dbea3c5b69.mp4",
+    "static/media/mainLogo.png": "/boomsLanding/static/media/mainLogo.ebee860730a18599f459.png",
+    "static/media/Karbon-BoldTest.otf": "/boomsLanding/static/media/Karbon-BoldTest.53f4190015b753814d72.otf",
+    "static/media/Karbon-RegularTest.otf": "/boomsLanding/static/media/Karbon-RegularTest.2e4eb2ef5bc046bec2af.otf",
+    "index.html": "/boomsLanding/index.html",
+    "main.7cb9c386.css.map": "/boomsLanding/static/css/main.7cb9c386.css.map",
+    "main.2b7b0172.js.map": "/boomsLanding/static/js/main.2b7b0172.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb9c386.css",
+    "static/js/main.2b7b0172.js"
+  ]
+}
