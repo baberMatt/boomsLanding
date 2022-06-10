@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa2ed19d.css",
-    "main.js": "/static/js/main.ca2f64e2.js",
+    "main.css": "/static/css/main.10dd5bec.css",
+    "main.js": "/static/js/main.0d7ac960.js",
     "static/media/newPizzaBG.mp4": "/static/media/newPizzaBG.5c0672d8a7dbea3c5b69.mp4",
+    "static/media/BioRhyme-Regular.ttf": "/static/media/BioRhyme-Regular.19707758b8c1a81bac32.ttf",
     "static/media/mainLogo.png": "/static/media/mainLogo.ebee860730a18599f459.png",
+    "static/media/downChevron.png": "/static/media/downChevron.297c46cb829b22a50972.png",
     "static/media/Karbon-BoldTest.otf": "/static/media/Karbon-BoldTest.53f4190015b753814d72.otf",
     "static/media/Karbon-RegularTest.otf": "/static/media/Karbon-RegularTest.2e4eb2ef5bc046bec2af.otf",
+    "static/media/PitchSans-SemiboldTest.otf": "/static/media/PitchSans-SemiboldTest.b6f09e0fa9348e424050.otf",
     "index.html": "/index.html",
-    "main.fa2ed19d.css.map": "/static/css/main.fa2ed19d.css.map",
-    "main.ca2f64e2.js.map": "/static/js/main.ca2f64e2.js.map"
+    "main.10dd5bec.css.map": "/static/css/main.10dd5bec.css.map",
+    "main.0d7ac960.js.map": "/static/js/main.0d7ac960.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa2ed19d.css",
-    "static/js/main.ca2f64e2.js"
+    "static/css/main.10dd5bec.css",
+    "static/js/main.0d7ac960.js"
   ]
 }
