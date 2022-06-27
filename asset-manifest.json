@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c9125168.css",
-    "main.js": "/static/js/main.51606100.js",
+    "main.js": "/static/js/main.0bbbe562.js",
     "static/media/newPizzaBG.mp4": "/static/media/newPizzaBG.5c0672d8a7dbea3c5b69.mp4",
     "static/media/newPizzaBG2.mp4": "/static/media/newPizzaBG2.645c10af4d7a3b9fdfa6.mp4",
     "static/media/BioRhyme-Regular.ttf": "/static/media/BioRhyme-Regular.19707758b8c1a81bac32.ttf",
@@ -12,10 +12,10 @@
     "static/media/PitchSans-SemiboldTest.otf": "/static/media/PitchSans-SemiboldTest.b6f09e0fa9348e424050.otf",
     "index.html": "/index.html",
     "main.c9125168.css.map": "/static/css/main.c9125168.css.map",
-    "main.51606100.js.map": "/static/js/main.51606100.js.map"
+    "main.0bbbe562.js.map": "/static/js/main.0bbbe562.js.map"
   },
   "entrypoints": [
     "static/css/main.c9125168.css",
-    "static/js/main.51606100.js"
+    "static/js/main.0bbbe562.js"
   ]
 }
