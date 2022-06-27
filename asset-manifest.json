@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ccc0e8c8.css",
-    "main.js": "/static/js/main.658c1a7b.js",
+    "main.css": "/static/css/main.c9125168.css",
+    "main.js": "/static/js/main.51606100.js",
     "static/media/newPizzaBG.mp4": "/static/media/newPizzaBG.5c0672d8a7dbea3c5b69.mp4",
     "static/media/newPizzaBG2.mp4": "/static/media/newPizzaBG2.645c10af4d7a3b9fdfa6.mp4",
     "static/media/BioRhyme-Regular.ttf": "/static/media/BioRhyme-Regular.19707758b8c1a81bac32.ttf",
@@ -11,11 +11,11 @@
     "static/media/Karbon-RegularTest.otf": "/static/media/Karbon-RegularTest.2e4eb2ef5bc046bec2af.otf",
     "static/media/PitchSans-SemiboldTest.otf": "/static/media/PitchSans-SemiboldTest.b6f09e0fa9348e424050.otf",
     "index.html": "/index.html",
-    "main.ccc0e8c8.css.map": "/static/css/main.ccc0e8c8.css.map",
-    "main.658c1a7b.js.map": "/static/js/main.658c1a7b.js.map"
+    "main.c9125168.css.map": "/static/css/main.c9125168.css.map",
+    "main.51606100.js.map": "/static/js/main.51606100.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccc0e8c8.css",
-    "static/js/main.658c1a7b.js"
+    "static/css/main.c9125168.css",
+    "static/js/main.51606100.js"
   ]
 }
